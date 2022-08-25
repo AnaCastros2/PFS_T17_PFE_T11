@@ -1,0 +1,11 @@
+inicio da aula de git
+
+1. git init
+2. git status
+3. git add .
+4. git commit -m "descrição"
+5. git log
+6. git push origin main
+7. git branch NOME DA NOVA BRANCH (criar branch)
+8. git checkout NOME DA BRACH CRIADA (mudar pra branch criada)
+9. git merge NOME DA BRANCH
